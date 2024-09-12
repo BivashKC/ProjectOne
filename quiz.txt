@@ -1,3 +1,50 @@
 What is the capital of France?|Paris|London|Berlin|Madrid|0
 What is 2 + 2?|3|4|5|6|1
 What is the capital of Nepal?|London|New Delhi|Kathmandu|Pokhara|2
+What is the largest planet in our solar system?|Earth|Mars|Jupiter|Saturn|2
+What is the chemical symbol for water?|HO|OH|H2O|O2|2
+Who wrote 'Romeo and Juliet'?|Charles Dickens|William Shakespeare|Jane Austen|Mark Twain|1
+What is the square root of 64?|6|7|8|9|2
+What is the currency of Japan?|Dollar|Yen|Euro|Pound|1
+What is the capital of Australia?|Sydney|Melbourne|Canberra|Brisbane|2
+Who painted the Mona Lisa?|Vincent van Gogh|Pablo Picasso|Leonardo da Vinci|Claude Monet|2
+What is the smallest prime number?|1|2|3|4|1
+What is the boiling point of water?|90°C|100°C|110°C|120°C|1
+What is the speed of light?|300,000 km/s|150,000 km/s|200,000 km/s|250,000 km/s|0
+What is the capital of Canada?|Toronto|Vancouver|Ottawa|Montreal|2
+What is the tallest mountain in the world?|K2|Kangchenjunga|Mount Everest|Lhotse|2
+What is the most spoken language in the world?|English|Spanish|Mandarin|Hindi|2
+Who discovered penicillin?|Marie Curie|Albert Einstein|Alexander Fleming|Isaac Newton|2
+What is the longest river in the world?|Amazon|Nile|Yangtze|Mississippi|1
+What is the capital of Germany?|Munich|Berlin|Frankfurt|Hamburg|1
+What is the chemical symbol for gold?|Au|Ag|Gd|Pt|0
+What is the largest ocean on Earth?|Atlantic Ocean|Indian Ocean|Arctic Ocean|Pacific Ocean|3
+Who was the first person to walk on the moon?|Yuri Gagarin|Buzz Aldrin|Neil Armstrong|Michael Collins|2
+What is the capital of Italy?|Rome|Milan|Venice|Florence|0
+What is the most abundant gas in Earth's atmosphere?|Oxygen|Nitrogen|Carbon Dioxide|Hydrogen|1
+What is the smallest country in the world?|Monaco|Nauru|Vatican City|San Marino|2
+What is the main ingredient in guacamole?|Potato|Tomato|Avocado|Onion|2
+What is the atomic number of carbon?|4|5|6|7|2
+Who wrote 'Pride and Prejudice'?|Jane Austen|Emily Bronte|Charlotte Bronte|Louisa May Alcott|0
+What is the capital of Russia?|St. Petersburg|Moscow|Kazan|Novosibirsk|1
+What is the hardest natural substance on Earth?|Gold|Iron|Diamond|Quartz|2
+What is the capital of Brazil?|São Paulo|Rio de Janeiro|Brasília|Salvador|2
+Who developed the theory of relativity?|Isaac Newton|Galileo Galilei|Albert Einstein|Nikola Tesla|2
+What is the main language spoken in Brazil?|Spanish|Portuguese|English|French|1
+What is the capital of Egypt?|Alexandria|Giza|Cairo|Luxor|2
+What is the highest waterfall in the world?|Niagara Falls|Victoria Falls|Angel Falls|Iguazu Falls|2
+What is the capital of India?|Mumbai|Chennai|Kolkata|New Delhi|3
+What is the largest mammal in the world?|Elephant|Blue Whale|Giraffe|Hippopotamus|1
+What is the fastest land animal?|Cheetah|Lion|Tiger|Horse|0
+What is the capital of China?|Shanghai|Beijing|Guangzhou|Shenzhen|1
+What is the most common blood type?|A|B|AB|O|3
+What is the primary ingredient in traditional hummus?|Chickpeas|Lentils|Beans|Peas|0
+What is the capital of Spain?|Madrid|Barcelona|Seville|Valencia|0
+What is the smallest bone in the human body?|Femur|Rib|Stapes|Humerus|2
+What is the hottest planet in our solar system?|Mercury|Venus|Earth|Mars|1
+What is the capital of Mexico?|Guadalajara|Monterrey|Mexico City|Tijuana|2
+What is the study of ancient human history through excavation?|Biology|Anthropology|Archaeology|Geology|2
+Who was the first President of the United States?|John Adams|Thomas Jefferson|Abraham Lincoln|George Washington|3
+What is the largest desert in the world?|Sahara|Gobi|Kalahari|Arabian|0
+Which country is the world's largest coffee producer?|Canada|Argentina|Japan|Brazil|3
+What is the only flag that does not have four sides?|India|USA|Poland|Nepal|3
