@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Custom Navbar with Scrolling</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+  
+  <!-- Font Awesome CSS for Icons -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+  
+  <style>
+  body::-webkit-scrollbar {
+      display: none;
+    }
+    /* Custom styles for section spacing */
+    section {
+      padding: 100px 0;
+    }
+
+    footer {
+      background-color: #343a40;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    .container{
+        a{
+            margin-right: 10px;
+        }
+    }
+  </style>
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">BrainTest</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <!-- Left side -->
+        <ul class="navbar-nav me-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="quiz.html">Quick Quiz</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="iq.html">Test IQ</a>
+          </li>
+        </ul>
+        <!-- Right side -->
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#home">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#about">About Us</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#contact">Contact Us</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+ <!-- Home Section -->
+<section id="home" class="bg-light text-center d-flex align-items-center">
+    <div class="container">
+      <div class="row align-items-center">
+        <!-- Text Content -->
+        <div class="col-md-6">
+          <h1>Hey Welcome!!</h1>
+          <h3 class="mt-3 mb-4">Discover, Learn, and Grow</h3>
+          <p>At BrainTest, we not only provide users with insightful quizzes to evaluate their IQ, but also help them learn from their mistakes. Challenge yourself, track your progress, and grow smarter every day!</p>
+          <a href="quiz.html" class="btn btn-primary mt-4">Start the Quiz Now</a>
+          <a href="iq.html" class="btn btn-primary mt-4">Start the IQ Test Now</a>
+        </div>
+        <!-- Image Content -->
+        <div class="col-md-6">
+          <img src="iq.png" class="img-fluid rounded" alt="Learning and IQ illustration">
+        </div>
+      </div>
+    </div>
+  </section>
+  
+
+<!-- About Us Section -->
+<section id="about" class="bg-secondary text-white text-center d-flex align-items-center">
+    <div class="container">
+      <div class="row align-items-center">
+        <!-- Image Content -->
+        <div class="col-md-6">
+          <img src="about.png" class="img-fluid rounded mb-4 mb-md-0" alt="About Us illustration">
+        </div>
+        <!-- Text Content -->
+        <div class="col-md-6">
+          <h2>About Us</h2>
+          <p class="lead mt-3">At BrainTest, we are passionate about helping individuals explore their potential. Our mission is to provide engaging and insightful quizzes to not only measure your IQ but also help you grow smarter through personalized learning. We believe that learning from mistakes is key to unlocking true potential, and we are here to guide you every step of the way.</p>
+          <p>Our team of experts is constantly updating and refining our quizzes to ensure accuracy, engagement, and most importantly, value to our users. Whether you’re testing your IQ for fun, for academic purposes, or to challenge yourself, we’ve got you covered!</p>
+          <a href="#contact" class="btn btn-outline-light mt-4">Contact Us</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+
+<!-- Contact Us Section -->
+<section id="contact" class="bg-light text-center d-flex align-items-center py-5">
+    <div class="container">
+      <div class="row align-items-center">
+        <!-- Image Content -->
+        <div class="col-md-6 mb-4 mb-md-0">
+          <img src="cont.png" class="img-fluid" alt="Contact Us cartoon illustration">
+        </div>
+        <!-- Contact Information -->
+        <div class="col-md-6">
+          <h2 class="mb-4">Get In Touch</h2>
+          <p class="lead">We are here to help! Whether you have a question about our quizzes, feedback on your IQ test, or just want to know more about how we can help you grow smarter, don’t hesitate to reach out.</p>
+          <ul class="list-unstyled">
+            <li class="mb-2"><strong>Phone:</strong> +123-456-7890</li>
+            <li class="mb-2"><strong>Mobile:</strong> +987-654-3210</li>
+            <li class="mb-2"><strong>Email:</strong> contact@iqtest.com</li>
+          </ul>
+          <a href="mailto:contact@iqtest.com" class="btn btn-primary mt-3">Email Us</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+
+  <!-- Footer Section -->
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 BrainTest | All rights reserved</p>
+      <p>Follow us on:
+        <a href="#" class="text-white">
+          <i class="fab fa-facebook"></i>
+        </a> 
+        <a href="#" class="text-white">
+          <i class="fab fa-twitter"></i>
+        </a> 
+        <a href="#" class="text-white">
+          <i class="fab fa-instagram"></i>
+        </a>
+        <a href="https://www.youtube.com/@bivashkc.272" class="text-white">
+            <i class="fab fa-youtube"></i>
+          </a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

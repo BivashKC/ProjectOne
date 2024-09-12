@@ -1,0 +1,70 @@
+.container mt-5 {
+    font-family: Arial, sans-serif;
+    margin-top: 200px;
+}
+.iq-body{
+    background-color: #003366;
+    height: 100vh;
+}
+
+#timer {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffcc00;
+    width: 80px;
+    height: 80px;
+    border: 4px solid #ffcc00;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.card {
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.7); /* Changed to match the design */
+    border: 2px solid #ffcc00; /* Changed to match the design */
+}
+
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffcc00; /* Changed to match the design */
+}
+
+.answer-btn {
+    display: inline-block; /* Changed to inline-block to fit two buttons in a row */
+    margin: 10px 5px;
+    font-size: 18px;
+    width: 45%; /* Changed to fit two buttons in a row */
+    background-color: #003366; /* Changed to match the design */
+    color: white;
+    border: 1px solid #ffcc00; /* Changed to match the design */
+}
+
+.answer-btn.correct {
+    background-color: #28a745; /* Green */
+    color: white;
+}
+
+.answer-btn.incorrect {
+    background-color: #dc3545; /* Red */
+    color: white;
+}
+
+#result {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffcc00; /* Changed to match the design */
+}
+
+#final-message {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffcc00; /* Changed to match the design */
+}
